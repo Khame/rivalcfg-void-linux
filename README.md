@@ -99,7 +99,7 @@ The device node must belong to `plugdev` with mode `0660`. No reboot is needed.
 
 - `/usr/bin/rivalcfg`
 - the `rivalcfg` Python package under
-  `/usr/lib/python3.14/site-packages/rivalcfg/`
+  `/usr/lib/python3.*/site-packages/rivalcfg/`
 - `/usr/lib/udev/rules.d/99-steelseries-rival.rules`
 - the upstream license text in the package metadata
 
